@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+    background-color: #DCDCDC;
+}
+
+header {
+    width: 100%;
+}
+
+img {
+    width: 45%;
+}
+
+.logo {
+    width: 20%;
+    border-radius: 100px;
+    box-shadow: 0 0 0 1px;
+}
+
+.container {
+    margin-left: 10%;
+    margin-right: auto;
+}
+
+.doggi {
+    order: 1;
+}
+
+.LittleGirl {
+    order: 2
+}
+
+.beuty {
+    order: 3;
+}
+
+.beuty2 {
+    order: 4
+}
+
+.love {
+    order: 5
+}
+
+.dog {
+    order: 6
+}
+
+.love2 {
+    order: 7
+}
+
+footer {
+    display: block;
+}
